@@ -44,5 +44,5 @@ for fileName in fileNames:
 	
 	locationOutput += f"\n{lines[0]},{easting},{northing},{grid},{lat},{lon},{metresAmsl},N,,,,,,,,,"
 	
-with open(f"{outputDir}/locations.csv", "w", encoding="utf-8") as outFile:
+with open(f"{outputDir}/locations_initial_output.csv", "w", encoding="utf-8") as outFile:
 	outFile.write(locationOutput)

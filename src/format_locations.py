@@ -1,22 +1,24 @@
 import os
 from deduplicate_whitespace import deduplicate_whitespace
 
-originalTxtDir = "original_text"
+originalTxtDir = "original_txt"
 outputDir = "output"
 
 fileNames = [fileName for fileName in os.listdir(originalTxtDir) if fileName.lower().endswith(".txt")]
 
-locationOutput = "name,easting,northing,grid,lat,lon,metres_amsl,changed_location,prev_easting,prev_northing,prev_lat,_prev_lon,prev_metres_amsl,last_year_location_1,last_month_location_1,first_year_location_2,first_month_location_2"
+locationOutput = "name,easting,northing,grid,lat,lon,metres_amsl,changed_location,prev_easting,prev_northing,prev_lat,_prev_lon,prev_metres_amsl,last_year_location_1,last_month_location_1,first_year_location_2,first_month_location_2,ref"
 
 for fileName in fileNames:
 	with open(f"{originalTxtDir}/{fileName}", "r", encoding="utf-8") as inFile:
 		text = deduplicate_whitespace(inFile.read())
 	lines = [line.strip() for line in text.splitlines()]
 	
+	ref = ".".join(fileName.split(".")[:-1])
+	
 	# a few files need manual intervention as they have details about changed locations
 	if not lines[2].startswith("Estimated"):
 		print(f"File requires manual intervention: {lines[0]}")
-		locationOutput += f"\n{lines[0]},,,,,,,Y,,,,,,,,,"
+		locationOutput += f"\n{lines[0]},,,,,,,Y,,,,,,,,,,{ref}"
 		continue
 	
 	tokens = lines[1].split(" ")
@@ -42,7 +44,7 @@ for fileName in fileNames:
 	if northing.lower().endswith("n"):
 		northing = northing[:-1] # remove n
 	
-	locationOutput += f"\n{lines[0]},{easting},{northing},{grid},{lat},{lon},{metresAmsl},N,,,,,,,,,"
+	locationOutput += f"\n{lines[0]},{easting},{northing},{grid},{lat},{lon},{metresAmsl},N,,,,,,,,,,{ref}"
 	
 with open(f"{outputDir}/locations_initial_output.csv", "w", encoding="utf-8") as outFile:
 	outFile.write(locationOutput)

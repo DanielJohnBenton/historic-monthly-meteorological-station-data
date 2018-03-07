@@ -2,7 +2,7 @@ import os
 from deduplicate_whitespace import deduplicate_whitespace
 
 originalTxtDir = "original_text"
-outputDir = "formatted_data"
+outputDir = "output"
 
 fileNames = [fileName for fileName in os.listdir(originalTxtDir) if fileName.lower().endswith(".txt")]
 

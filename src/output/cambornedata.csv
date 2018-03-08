@@ -1,10 +1,10 @@
 yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,tmax_degc_estimated,tmin_degc_estimated,af_days_estimated,rain_mm_estimated,sun_hours_estimated,provisional
-1978,9,17.5,11.3,0,26.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1978,10,15.6,10.7,0,20.4,,Campbell Stokes recorder,N,N,N,N,N,N
-1978,11,12.6,7.6,0,56.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1978,12,9.2,5.0,5,276.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1979,1,6.5,0.9,13,134.8,,Campbell Stokes recorder,N,N,N,N,N,N
-1979,2,6.7,1.9,5,133.0,,Campbell Stokes recorder,N,N,N,N,N,N
+1978,9,17.5,11.3,0,26.7,,,N,N,N,N,N,N
+1978,10,15.6,10.7,0,20.4,,,N,N,N,N,N,N
+1978,11,12.6,7.6,0,56.3,,,N,N,N,N,N,N
+1978,12,9.2,5.0,5,276.7,,,N,N,N,N,N,N
+1979,1,6.5,0.9,13,134.8,,,N,N,N,N,N,N
+1979,2,6.7,1.9,5,133.0,,,N,N,N,N,N,N
 1979,3,8.8,3.6,2,143.8,105.0,Campbell Stokes recorder,N,N,N,N,N,N
 1979,4,10.6,5.5,0,65.9,161.1,Campbell Stokes recorder,N,N,N,N,N,N
 1979,5,12.4,5.8,0,82.3,227.0,Campbell Stokes recorder,N,N,N,N,N,N
@@ -35,7 +35,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1981,6,15.2,10.1,0,49.0,197.1,Campbell Stokes recorder,N,N,N,N,N,N
 1981,7,17.3,12.4,0,49.8,120.8,Campbell Stokes recorder,N,N,N,N,N,N
 1981,8,19.5,12.7,0,4.4,236.4,Campbell Stokes recorder,N,N,N,N,N,N
-1981,9,18.2,11.7,0,182.3,,Campbell Stokes recorder,N,N,N,N,N,N
+1981,9,18.2,11.7,0,182.3,,,N,N,N,N,N,N
 1981,10,12.0,7.8,0,150.3,64.6,Campbell Stokes recorder,N,N,N,N,N,N
 1981,11,11.3,7.6,0,48.1,39.9,Campbell Stokes recorder,N,N,N,N,N,N
 1981,12,8.3,3.2,3,202.8,54.1,Campbell Stokes recorder,N,N,N,N,N,N

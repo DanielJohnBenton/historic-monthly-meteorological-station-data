@@ -636,7 +636,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2011,11,13.9,9.8,0,37.2,63.4,Campbell Stokes recorder,N,N,N,N,N,N
 2011,12,10.7,5.0,1,193.6,65.6,Campbell Stokes recorder,N,N,N,N,N,N
 2012,1,9.8,5.0,0,45.6,89.8,Campbell Stokes recorder,N,N,N,N,N,N
-2012,2,7.3,1.4,13,21.8,109.2,Campbell Stokes recorder,N,N,N,N,Y,N
+2012,2,7.3,1.4,13,21.8,109.2,,N,N,N,N,Y,N
 2012,3,12.6,5.5,0,32.9,180.6,Campbell Stokes recorder,N,N,N,N,N,N
 2012,4,12.3,5.3,0,85.0,209.6,Campbell Stokes recorder,N,N,N,N,N,N
 2012,5,16.8,10.0,0,37.5,227.1,Campbell Stokes recorder,N,N,N,N,N,N
@@ -663,14 +663,14 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2014,2,10.5,5.2,0,123.7,102.8,Campbell Stokes recorder,N,N,N,N,N,N
 2014,3,12.5,4.7,0,47.8,188.9,Campbell Stokes recorder,N,N,N,N,N,N
 2014,4,14.7,7.1,0,44.4,196.4,Campbell Stokes recorder,N,N,N,N,N,N
-2014,5,15.4,9.8,0,59.6,236.3,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
+2014,5,15.4,9.8,0,59.6,236.3,,Y,Y,Y,Y,Y,N
 2014,6,20.2,12.5,0,10.3,214.4,Campbell Stokes recorder,N,N,N,Y,N,N
 2014,7,22.3,15.2,0,63.3,235.9,Campbell Stokes recorder,N,N,N,Y,N,N
 2014,8,20.5,13.7,0,100.3,237.1,Campbell Stokes recorder,N,N,N,N,N,N
 2014,9,20.6,13.1,0,9.8,185.4,Campbell Stokes recorder,N,N,N,N,N,N
 2014,10,17.6,11.2,0,155.1,119.6,Campbell Stokes recorder,N,N,N,N,N,N
-2014,11,13.1,8.9,0,157.3,56.1,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-2014,12,9.5,3.9,3,58.1,73.3,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
+2014,11,13.1,8.9,0,157.3,56.1,,Y,Y,Y,Y,Y,N
+2014,12,9.5,3.9,3,58.1,73.3,,Y,Y,Y,Y,Y,N
 2015,1,9.1,3.5,6,128.7,70.3,Campbell Stokes recorder,N,N,N,N,N,N
 2015,2,8.6,2.2,5,65.3,97.5,Campbell Stokes recorder,N,N,N,N,N,N
 2015,3,10.8,5.1,0,25.4,142.0,Campbell Stokes recorder,N,N,N,N,N,N
@@ -689,22 +689,22 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2016,4,12.7,5.8,0,26.1,192.8,Campbell Stokes recorder,N,N,N,N,N,N
 2016,5,17.0,10.0,0,44.2,224.2,Campbell Stokes recorder,N,N,N,N,N,N
 2016,6,19.1,12.9,0,75.2,144.7,Campbell Stokes recorder,N,N,N,N,N,N
-2016,7,21.2,14.9,0,5.0,248.8,Campbell Stokes recorder,N,N,N,N,Y,N
+2016,7,21.2,14.9,0,5.0,248.8,,N,N,N,N,Y,N
 2016,8,21.9,14.7,0,21.8,235.6,Campbell Stokes recorder,N,N,N,N,N,N
 2016,9,21.3,14.2,0,21.6,139.4,Campbell Stokes recorder,N,N,N,N,N,N
 2016,10,16.2,9.1,0,32.7,116.8,Campbell Stokes recorder,N,N,N,N,N,N
 2016,11,11.9,4.9,1,69.5,69.7,Campbell Stokes recorder,N,N,N,N,N,N
 2016,12,10.9,5.1,1,12.3,60.7,Campbell Stokes recorder,N,N,N,N,N,N
-2017,1,7.7,1.6,9,95.8,74.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,2,9.4,5.3,0,55.6,62.7,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,3,12.4,7.0,0,28.3,165.5,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,4,13.7,5.6,0,4.1,227.9,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,5,17.1,10.2,0,60.6,237.3,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,6,20.5,13.5,0,64.4,306.5,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,7,20.9,15.2,0,76.9,250.3,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,8,20.3,14.1,0,77.2,234.4,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,9,17.8,12.0,0,70.5,146.0,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,10,16.3,11.3,0,37.6,102.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,11,11.4,5.5,0,39.0,79.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2017,12,9.0,3.3,8,126.3,50.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
-2018,1,9.6,5.0,0,89.9,52.8,Campbell Stokes recorder,Y,Y,Y,Y,Y,Y
+2017,1,7.7,1.6,9,95.8,74.6,,Y,Y,Y,Y,Y,Y
+2017,2,9.4,5.3,0,55.6,62.7,,Y,Y,Y,Y,Y,Y
+2017,3,12.4,7.0,0,28.3,165.5,,Y,Y,Y,Y,Y,Y
+2017,4,13.7,5.6,0,4.1,227.9,,Y,Y,Y,Y,Y,Y
+2017,5,17.1,10.2,0,60.6,237.3,,Y,Y,Y,Y,Y,Y
+2017,6,20.5,13.5,0,64.4,306.5,,Y,Y,Y,Y,Y,Y
+2017,7,20.9,15.2,0,76.9,250.3,,Y,Y,Y,Y,Y,Y
+2017,8,20.3,14.1,0,77.2,234.4,,Y,Y,Y,Y,Y,Y
+2017,9,17.8,12.0,0,70.5,146.0,,Y,Y,Y,Y,Y,Y
+2017,10,16.3,11.3,0,37.6,102.6,,Y,Y,Y,Y,Y,Y
+2017,11,11.4,5.5,0,39.0,79.6,,Y,Y,Y,Y,Y,Y
+2017,12,9.0,3.3,8,126.3,50.6,,Y,Y,Y,Y,Y,Y
+2018,1,9.6,5.0,0,89.9,52.8,,Y,Y,Y,Y,Y,Y

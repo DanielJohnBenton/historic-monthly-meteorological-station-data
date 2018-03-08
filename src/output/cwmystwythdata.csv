@@ -20,7 +20,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1960,7,16.0,9.3,0,,111.3,Campbell Stokes recorder,N,N,N,N,N,N
 1960,8,16.5,9.4,0,,119.2,Campbell Stokes recorder,N,N,N,N,N,N
 1960,9,15.0,7.9,0,,120.3,Campbell Stokes recorder,N,N,N,N,N,N
-1960,10,12.0,5.3,5,,,Campbell Stokes recorder,N,N,N,N,N,N
+1960,10,12.0,5.3,5,,,,N,N,N,N,N,N
 1960,11,8.8,2.9,5,,37.3,Campbell Stokes recorder,N,N,N,N,N,N
 1960,12,5.9,0.4,13,,33.9,Campbell Stokes recorder,N,N,N,N,N,N
 1961,1,5.4,0.2,11,144.8,31.0,Campbell Stokes recorder,N,N,N,N,N,N
@@ -32,22 +32,22 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1961,7,16.7,8.2,0,141.1,149.2,Campbell Stokes recorder,N,N,N,N,N,N
 1961,8,16.8,10.1,0,149.5,106.6,Campbell Stokes recorder,N,N,N,N,N,N
 1961,9,17.4,9.3,0,134.8,79.7,Campbell Stokes recorder,N,N,N,N,N,N
-1962,5,4.2,3,117.8,102.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,6,6.8,1,72.8,163.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,7,16.8,9.1,0,56.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,8,15.6,9.3,0,236.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,9,14.6,7.8,1,218.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,10,,,,69.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,11,7.6,1.8,9,85.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1962,12,5.3,-1.0,18,204.4,,Campbell Stokes recorder,N,N,N,N,N,N
-1963,3,,,,106.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1963,4,10.6,3.0,1,159.7,,Campbell Stokes recorder,N,N,N,N,N,N
+1962,5,4.2,3,117.8,102.2,,,N,N,N,N,N,N
+1962,6,6.8,1,72.8,163.9,,,N,N,N,N,N,N
+1962,7,16.8,9.1,0,56.7,,,N,N,N,N,N,N
+1962,8,15.6,9.3,0,236.2,,,N,N,N,N,N,N
+1962,9,14.6,7.8,1,218.0,,,N,N,N,N,N,N
+1962,10,,,,69.7,,,N,N,N,N,N,N
+1962,11,7.6,1.8,9,85.2,,,N,N,N,N,N,N
+1962,12,5.3,-1.0,18,204.4,,,N,N,N,N,N,N
+1963,3,,,,106.2,,,N,N,N,N,N,N
+1963,4,10.6,3.0,1,159.7,,,N,N,N,N,N,N
 1963,5,12.1,4.9,1,126.9,117.4,Campbell Stokes recorder,N,N,N,N,N,N
-1963,6,,,,121.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1963,7,,,,62.9,,Campbell Stokes recorder,N,N,N,N,N,N
+1963,6,,,,121.6,,,N,N,N,N,N,N
+1963,7,,,,62.9,,,N,N,N,N,N,N
 1963,8,,,,154.3,78.8,Campbell Stokes recorder,N,N,N,N,N,N
-1963,9,,,,165.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1963,10,,,,139.0,,Campbell Stokes recorder,N,N,N,N,N,N
+1963,9,,,,165.0,,,N,N,N,N,N,N
+1963,10,,,,139.0,,,N,N,N,N,N,N
 1963,11,9.8,4.3,1,234.4,55.6,Campbell Stokes recorder,N,N,N,N,N,N
 1963,12,4.4,-0.9,18,19.7,59.9,Campbell Stokes recorder,N,N,N,N,N,N
 1964,1,5.6,0.6,15,83.1,30.6,Campbell Stokes recorder,N,N,N,N,N,N
@@ -132,7 +132,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1970,8,17.6,9.7,0,136.8,112.1,Campbell Stokes recorder,N,N,N,N,N,N
 1970,9,15.9,9.3,0,124.4,72.4,Campbell Stokes recorder,N,N,N,N,N,N
 1970,10,12.1,6.5,1,216.0,56.9,Campbell Stokes recorder,N,N,N,N,N,N
-1970,11,9.4,4.4,3,304.2,,Campbell Stokes recorder,N,N,N,N,N,N
+1970,11,9.4,4.4,3,304.2,,,N,N,N,N,N,N
 1970,12,5.7,0.8,15,107.7,40.2,Campbell Stokes recorder,N,N,N,N,N,N
 1971,1,6.3,1.5,9,178.5,20.7,Campbell Stokes recorder,N,N,N,N,N,N
 1971,2,6.2,0.3,15,114.3,30.5,Campbell Stokes recorder,N,N,N,N,N,N
@@ -160,17 +160,17 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1972,12,7.9,2.5,6,184.9,24.3,Campbell Stokes recorder,N,N,N,N,N,N
 1973,1,5.8,1.7,11,152.5,20.7,Campbell Stokes recorder,N,N,N,N,N,N
 1973,2,5.5,1.0,9,167.4,37.4,Campbell Stokes recorder,N,N,N,N,N,N
-1973,3,8.9,-0.2,20,84.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,4,9.1,0.8,11,125.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,5,13.2,5.6,2,162.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,6,16.6,8.0,1,31.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,7,17.1,8.7,0,129.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,8,18.7,11.0,0,159.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,9,16.1,8.5,0,178.4,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,10,11.5,4.8,4,153.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,11,8.8,2.5,9,218.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1973,12,7.1,1.6,9,259.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1974,1,7.4,2.3,7,266.2,,Campbell Stokes recorder,N,N,N,N,N,N
+1973,3,8.9,-0.2,20,84.3,,,N,N,N,N,N,N
+1973,4,9.1,0.8,11,125.9,,,N,N,N,N,N,N
+1973,5,13.2,5.6,2,162.6,,,N,N,N,N,N,N
+1973,6,16.6,8.0,1,31.3,,,N,N,N,N,N,N
+1973,7,17.1,8.7,0,129.0,,,N,N,N,N,N,N
+1973,8,18.7,11.0,0,159.6,,,N,N,N,N,N,N
+1973,9,16.1,8.5,0,178.4,,,N,N,N,N,N,N
+1973,10,11.5,4.8,4,153.1,,,N,N,N,N,N,N
+1973,11,8.8,2.5,9,218.1,,,N,N,N,N,N,N
+1973,12,7.1,1.6,9,259.5,,,N,N,N,N,N,N
+1974,1,7.4,2.3,7,266.2,,,N,N,N,N,N,N
 1974,2,6.8,1.1,12,173.5,41.8,Campbell Stokes recorder,N,N,N,N,N,N
 1974,3,7.7,0.4,15,79.5,94.1,Campbell Stokes recorder,N,N,N,N,N,N
 1974,4,11.9,2.6,6,21.4,150.4,Campbell Stokes recorder,N,N,N,N,N,N
@@ -313,7 +313,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1985,9,16.8,9.8,0,89.3,96.5,Campbell Stokes recorder,N,N,N,N,N,N
 1985,10,13.0,6.3,1,103.5,97.0,Campbell Stokes recorder,N,N,N,N,N,N
 1985,11,6.0,0.4,14,117.1,51.7,Campbell Stokes recorder,N,N,N,N,N,N
-1985,12,,,,,,Campbell Stokes recorder,N,N,N,N,N,N
+1985,12,,,,,,,N,N,N,N,N,N
 1986,1,4.8,0.4,15,253.3,17.1,Campbell Stokes recorder,N,N,N,N,N,N
 1986,2,-0.1,-4.9,26,9.6,116.5,Campbell Stokes recorder,N,N,N,N,N,N
 1986,3,6.9,0.8,9,188.1,82.2,Campbell Stokes recorder,N,N,N,N,N,N
@@ -444,9 +444,9 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1996,8,18.4,10.1,0,142.3,158.4,Campbell Stokes recorder,N,N,N,N,N,N
 1996,9,16.5,7.9,0,85.6,150.4,Campbell Stokes recorder,N,N,N,N,N,N
 1996,10,12.9,7.2,0,217.4,59.9,Campbell Stokes recorder,N,N,N,N,N,N
-1996,11,,,,,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,12,,,,,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,1,5.1,-0.7,19,8.2,,Campbell Stokes recorder,N,N,N,N,N,N
+1996,11,,,,,,,N,N,N,N,N,N
+1996,12,,,,,,,N,N,N,N,N,N
+1997,1,5.1,-0.7,19,8.2,,,N,N,N,N,N,N
 1997,2,7.9,2.5,4,265.3,5.9,Campbell Stokes recorder,N,N,N,N,N,N
 1997,3,10.2,,,94.9,112.0,Campbell Stokes recorder,N,N,N,N,N,N
 1997,4,12.0,3.3,3,47.6,142.2,Campbell Stokes recorder,N,N,N,N,N,N
@@ -516,7 +516,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2002,8,18.2,10.6,0,79.1,138.2,Campbell Stokes recorder,N,N,N,N,N,N
 2002,9,16.9,8.7,0,80.5,152.6,Campbell Stokes recorder,N,N,N,N,N,N
 2002,10,12.4,6.0,1,222.2,81.7,Campbell Stokes recorder,N,N,N,N,N,N
-2002,11,10.3,5.5,0,290.9,,Campbell Stokes recorder,N,N,N,N,N,N
+2002,11,10.3,5.5,0,290.9,,,N,N,N,N,N,N
 2002,12,7.1,3.1,3,246.8,26.2,Campbell Stokes recorder,N,N,N,N,N,N
 2003,1,,1.3,9,179.6,50.6,Campbell Stokes recorder,N,N,N,N,N,N
 2003,2,6.5,0.6,12,73.6,91.9,Campbell Stokes recorder,N,N,N,N,N,N
@@ -543,11 +543,11 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2004,11,9.4,4.5,5,154.5,30.3,Campbell Stokes recorder,N,N,N,N,N,N
 2004,12,7.9,2.7,6,209.0,30.2,Campbell Stokes recorder,N,N,N,N,N,N
 2005,1,7.7,2.8,3,170.5,37.3,Campbell Stokes recorder,N,N,N,N,N,N
-2005,2,,,,146.8,,Campbell Stokes recorder,N,N,N,N,N,N
+2005,2,,,,146.8,,,N,N,N,N,N,N
 2005,3,9.3,2.9,10,87.8,67.4,Campbell Stokes recorder,N,N,N,N,N,N
 2005,4,11.2,3.9,3,129.3,138.8,Campbell Stokes recorder,N,N,N,N,N,N
 2005,5,13.9,5.5,1,71.8,189.3,Campbell Stokes recorder,N,N,N,N,N,N
-2005,6,17.8,9.8,0,94.1,,Campbell Stokes recorder,N,N,N,N,N,N
+2005,6,17.8,9.8,0,94.1,,,N,N,N,N,N,N
 2005,7,18.5,11.3,0,104.1,156.4,Campbell Stokes recorder,N,N,N,N,N,N
 2005,8,18.5,9.9,0,115.4,168.7,Campbell Stokes recorder,N,N,N,N,N,N
 2005,9,17.0,9.4,0,149.1,116.5,Campbell Stokes recorder,N,N,N,N,N,N
@@ -559,10 +559,10 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2006,3,6.9,0.9,12,196.3,84.2,Campbell Stokes recorder,N,N,N,N,N,N
 2006,4,10.8,3.6,5,97.0,144.9,Campbell Stokes recorder,N,N,N,N,N,N
 2006,5,14.3,6.2,1,190.3,158.3,Campbell Stokes recorder,N,N,N,N,N,N
-2006,6,,,,30.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,7,,,,51.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,8,,,,170.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,9,,,,72.6,,Campbell Stokes recorder,N,N,N,N,N,N
+2006,6,,,,30.0,,,N,N,N,N,N,N
+2006,7,,,,51.8,,,N,N,N,N,N,N
+2006,8,,,,170.2,,,N,N,N,N,N,N
+2006,9,,,,72.6,,,N,N,N,N,N,N
 2006,10,14.5,8.5,0,205.6,98.2,Campbell Stokes recorder,N,N,N,N,N,N
 2006,11,10.5,3.2,6,228.9,71.1,Campbell Stokes recorder,N,N,N,N,N,N
 2006,12,8.3,3.0,7,304.2,31.0,Campbell Stokes recorder,N,N,N,N,N,N
@@ -589,7 +589,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2008,9,15.5,7.8,0,162.2,96.3,Campbell Stokes recorder,N,N,N,N,N,N
 2008,10,11.5,5.6,1,317.6,79.1,Campbell Stokes recorder,N,N,N,N,N,N
 2008,11,8.7,3.8,5,237.3,38.9,Campbell Stokes recorder,N,N,N,N,N,N
-2008,12,5.9,-0.3,19,140.1,57.2,Campbell Stokes recorder,N,N,N,N,Y,N
+2008,12,5.9,-0.3,19,140.1,57.2,,N,N,N,N,Y,N
 2009,1,5.8,-0.7,15,167.1,42.0,Campbell Stokes recorder,N,N,N,N,N,N
 2009,2,5.5,0.8,11,35.1,26.2,Campbell Stokes recorder,N,N,N,N,N,N
 2009,3,8.7,2.0,6,110.8,93.0,Campbell Stokes recorder,N,N,N,N,N,N
@@ -597,24 +597,24 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2009,5,14.1,6.1,0,126.1,152.2,Campbell Stokes recorder,N,N,N,N,N,N
 2009,6,18.2,9.0,0,99.9,182.4,Campbell Stokes recorder,N,N,N,N,N,N
 2009,7,17.7,11.0,0,219.9,128.7,Campbell Stokes recorder,N,N,N,N,N,N
-2009,8,17.8,11.1,0,140.7,140.1,Campbell Stokes recorder,N,N,N,N,Y,N
+2009,8,17.8,11.1,0,140.7,140.1,,N,N,N,N,Y,N
 2009,9,15.7,8.8,0,86.3,57.2,Campbell Stokes recorder,N,N,N,N,N,N
-2009,10,13.9,6.9,3,126.6,78.9,Campbell Stokes recorder,N,N,N,N,Y,N
+2009,10,13.9,6.9,3,126.6,78.9,,N,N,N,N,Y,N
 2009,11,9.4,4.9,0,425.4,34.0,Campbell Stokes recorder,N,N,N,N,N,N
 2009,12,5.2,-0.2,13,167.7,36.7,Campbell Stokes recorder,N,N,N,N,N,N
 2010,1,3.4,-2.3,22,127.9,32.9,Campbell Stokes recorder,N,N,N,N,N,N
-2010,2,4.8,-1.6,19,70.4,72.2,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
+2010,2,4.8,-1.6,19,70.4,72.2,,Y,Y,Y,Y,Y,N
 2010,3,8.7,0.8,16,102.0,119.3,Campbell Stokes recorder,N,N,N,N,N,N
 2010,4,13.0,3.8,4,56.8,194.3,Campbell Stokes recorder,N,N,N,N,N,N
 2010,5,14.2,4.7,4,71.5,207.3,Campbell Stokes recorder,N,N,N,N,N,N
 2010,6,18.8,8.0,0,80.5,220.0,Campbell Stokes recorder,N,N,N,N,N,N
 2010,7,17.3,11.9,0,209.3,80.3,Campbell Stokes recorder,N,N,N,N,N,N
 2010,8,16.6,9.3,0,88.8,130.5,Campbell Stokes recorder,N,N,N,N,N,N
-2010,9,16.3,8.7,1,181.2,135.5,Campbell Stokes recorder,N,N,N,N,Y,N
-2010,10,12.5,5.2,5,108.0,117.2,Campbell Stokes recorder,Y,Y,Y,N,Y,N
-2010,11,7.1,0.5,11,154.9,73.3,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-2010,12,3.1,-3.7,23,82.6,52.4,Campbell Stokes recorder,N,N,N,N,Y,N
+2010,9,16.3,8.7,1,181.2,135.5,,N,N,N,N,Y,N
+2010,10,12.5,5.2,5,108.0,117.2,,Y,Y,Y,N,Y,N
+2010,11,7.1,0.5,11,154.9,73.3,,Y,Y,Y,Y,Y,N
+2010,12,3.1,-3.7,23,82.6,52.4,,N,N,N,N,Y,N
 2011,1,5.8,-0.3,16,191.4,44.7,Campbell Stokes recorder,N,N,N,N,N,N
 2011,2,8.3,3.1,5,165.8,43.5,Campbell Stokes recorder,N,N,N,N,N,N
 2011,3,10.3,1.4,12,35.5,145.0,Campbell Stokes recorder,N,N,N,N,N,N
-Site,closed,,,,,,Campbell Stokes recorder,N,N,N,N,N,N
+Site,closed,,,,,,,N,N,N,N,N,N

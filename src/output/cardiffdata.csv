@@ -98,15 +98,15 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1985,9,18.9,11.0,0,64.0,129.5,Campbell Stokes recorder,N,N,N,N,N,N
 1985,10,14.7,8.1,0,69.7,84.4,Campbell Stokes recorder,Y,Y,Y,N,N,N
 1985,11,8.6,1.1,6,59.5,64.9,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-1985,12,10.2,4.9,5,175.5,36.0,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,1,7.6,2.1,8,153.8,51.5,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,2,2.1,-2.3,22,6.4,66.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,3,9.7,2.5,4,108.2,120.6,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,4,10.6,2.7,3,78.4,144.9,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,5,15.0,7.6,0,89.1,171.7,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,6,20.5,10.8,0,60.2,188.1,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,7,20.2,12.4,0,69.7,172.1,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
-1986,8,17.9,10.6,0,118.1,148.2,Campbell Stokes recorder,Y,Y,Y,Y,Y,N
+1985,12,10.2,4.9,5,175.5,36.0,,Y,Y,Y,Y,Y,N
+1986,1,7.6,2.1,8,153.8,51.5,,Y,Y,Y,Y,Y,N
+1986,2,2.1,-2.3,22,6.4,66.6,,Y,Y,Y,Y,Y,N
+1986,3,9.7,2.5,4,108.2,120.6,,Y,Y,Y,Y,Y,N
+1986,4,10.6,2.7,3,78.4,144.9,,Y,Y,Y,Y,Y,N
+1986,5,15.0,7.6,0,89.1,171.7,,Y,Y,Y,Y,Y,N
+1986,6,20.5,10.8,0,60.2,188.1,,Y,Y,Y,Y,Y,N
+1986,7,20.2,12.4,0,69.7,172.1,,Y,Y,Y,Y,Y,N
+1986,8,17.9,10.6,0,118.1,148.2,,Y,Y,Y,Y,Y,N
 1986,9,16.7,7.4,0,20.6,154.8,Campbell Stokes recorder,N,N,N,N,N,N
 1986,10,15.1,6.4,2,137.4,85.4,Campbell Stokes recorder,N,N,N,N,N,N
 1986,11,12.1,4.3,1,177.6,70.5,Campbell Stokes recorder,N,N,N,N,N,N
@@ -222,265 +222,265 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1996,1,6.9,3.4,6,68.4,22.0,Campbell Stokes recorder,N,N,N,N,N,N
 1996,2,6.9,0.3,18,90.8,112.2,Campbell Stokes recorder,N,N,N,N,N,N
 1996,3,8.8,2.9,4,59.9,63.6,Campbell Stokes recorder,N,N,N,N,N,N
-1996,4,13.8,5.1,1,70.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,5,14.4,6.0,0,97.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,6,20.7,9.9,0,18.7,,Campbell Stokes recorder,Y,N,N,N,N,N
-1996,7,22.1,12.6,0,49.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,8,22.0,12.4,0,136.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,9,18.9,10.6,0,53.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,10,15.5,8.9,0,152.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,11,10.3,3.0,12,156.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1996,12,6.8,1.4,12,52.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,1,5.8,-0.1,15,15.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,2,10.6,3.9,4,181.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,3,12.2,5.0,0,42.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,4,15.1,4.9,0,34.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,5,17.2,7.8,0,97.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,6,18.9,11.6,0,100.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,7,22.1,12.5,0,42.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,8,23.3,15.5,0,251.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,9,19.0,10.9,0,69.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,10,15.1,7.3,3,84.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,11,12.4,6.1,2,163.4,,Campbell Stokes recorder,N,N,N,N,N,N
-1997,12,9.9,3.3,8,150.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,1,8.8,2.7,9,154.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,2,11.6,3.3,5,22.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,3,12.3,5.8,1,168.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,4,12.2,5.5,1,129.6,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,5,19.2,10.4,0,45.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,6,18.1,12.0,0,157.8,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,7,19.8,12.3,0,66.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,8,20.9,12.4,0,59.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,9,19.1,11.5,0,118.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,10,14.6,7.8,0,228.8,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-1998,11,10.6,3.4,7,118.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1998,12,9.6,1.9,9,130.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,1,10.2,2.3,6,208.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,2,9.1,2.8,7,64.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,3,11.8,3.6,3,70.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,4,13.8,5.7,5,109.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,5,17.5,9.5,0,75.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,6,19.1,8.9,0,71.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,7,23.1,13.0,0,12.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,8,21.3,12.7,0,204.0,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,9,20.2,10.9,0,176.4,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,10,15.2,7.3,0,90.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,11,11.8,4.5,1,60.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1999,12,9.3,2.2,9,231.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,1,8.5,1.2,15,47.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,2,10.4,3.0,6,168.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,3,11.8,4.1,3,59.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,4,12.3,4.5,1,155.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,5,17.2,8.1,0,95.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,6,20.2,11.2,0,37.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,7,20.8,12.4,0,74.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,8,21.9,13.0,0,73.9,,Campbell Stokes recorder,N,Y,Y,N,N,N
-2000,9,19.3,11.4,0,156.8,,Campbell Stokes recorder,N,Y,Y,N,N,N
-2000,10,15.0,7.1,0,267.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,11,11.1,3.2,4,180.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2000,12,9.9,4.6,6,187.7,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,1,7.8,1.8,5,84.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,2,10.1,1.7,13,96.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,3,9.5,2.8,7,147.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,4,12.9,4.5,2,119.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,5,18.1,8.7,0,31.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,6,20.2,10.2,0,34.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,7,21.6,13.1,0,144.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,8,21.1,13.6,0,134.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,9,18.5,10.5,0,36.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,10,17.2,11.0,0,183.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,11,12.2,4.0,5,86.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2001,12,8.4,1.3,12,36.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2002,1,9.8,3.7,2,142.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2002,2,11.1,4.6,3,187.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2002,3,12.5,5.0,2,65.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2002,4,14.6,5.6,1,84.7,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,5,16.5,8.5,0,129.8,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,6,18.4,10.6,0,66.0,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,7,20.5,12.5,0,65.9,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,8,21.7,12.9,0,55.9,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,9,19.6,10.7,0,30.5,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,10,14.7,7.1,2,217.1,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,11,12.8,7.1,0,175.6,,Campbell Stokes recorder,Y,N,N,N,N,N
-2002,12,8.9,4.6,0,151.1,,Campbell Stokes recorder,Y,N,N,N,N,N
-2003,1,8.6,2.3,11,90.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,2,8.7,1.9,8,39.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,3,13.6,4.5,2,47.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,4,16.2,6.2,1,70.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,5,16.7,8.4,0,93.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,6,21.3,11.7,0,68.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,7,22.0,13.8,0,93.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,8,24.5,14.7,0,16.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,9,20.5,9.5,0,23.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,10,14.4,5.7,7,65.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,11,12.5,6.0,3,105.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2003,12,9.6,3.1,5,138.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,1,9.4,3.0,7,162.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,2,9.6,2.9,9,67.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,3,11.4,3.8,3,85.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,4,14.7,6.3,1,73.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,5,18.3,8.8,0,40.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,6,21.2,12.3,0,65.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,7,20.7,12.6,0,82.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,8,22.3,13.7,0,141.7,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,9,19.5,11.6,0,107.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,10,15.0,8.3,0,182.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,11,12.0,6.0,0,65.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2004,12,9.7,3.5,9,84.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,1,10.4,3.9,4,75.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,2,8.8,2.4,5,49.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,3,11.6,4.8,8,65.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,4,14.7,6.6,2,87.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,5,17.2,8.3,0,51.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,6,20.6,12.2,0,76.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,7,22.2,13.9,0,69.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,8,21.9,11.6,0,55.6,,Campbell Stokes recorder,Y,N,N,N,N,N
-2005,9,20.4,11.6,0,82.8,,Campbell Stokes recorder,Y,N,N,N,N,N
-2005,10,16.6,11.4,0,160.0,,Campbell Stokes recorder,Y,N,N,N,N,N
-2005,11,10.9,3.0,11,106.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2005,12,9.3,2.4,5,114.7,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,1,8.0,2.9,4,36.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,2,7.7,2.3,6,59.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,3,9.5,3.5,5,121.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,4,14.1,6.2,3,35.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,5,17.0,8.9,0,159.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,6,21.9,11.8,0,47.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,7,25.5,14.5,0,65.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,8,21.1,13.2,0,58.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,9,21.3,12.7,0,43.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,10,16.8,8.8,0,178.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,11,12.5,3.6,5,178.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2006,12,10.1,3.9,5,147.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,1,10.5,4.2,2,178.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,2,10.0,3.7,7,152.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,3,12.6,4.3,1,89.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,4,18.4,7.0,0,21.8,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2007,5,17.4,8.7,0,128.5,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2007,6,20.1,12.1,0,104.7,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2007,7,19.3,12.6,0,173.8,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2007,8,21.1,11.7,0,71.3,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2007,9,18.5,10.2,0,53.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,10,14.9,6.7,0,57.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2007,11,12.0,4.9,3,88.4,,Campbell Stokes recorder,Y,Y,Y,N,N,N
-2007,12,9.0,2.9,9,171.5,,Campbell Stokes recorder,Y,Y,Y,N,N,N
-2008,1,10.6,4.4,1,170.6,,Campbell Stokes recorder,Y,Y,Y,N,N,N
-2008,2,10.2,2.4,7,44.5,,Campbell Stokes recorder,Y,Y,Y,N,N,N
-2008,3,10.8,3.9,2,98.7,,Campbell Stokes recorder,Y,Y,Y,N,N,N
-2008,4,13.9,4.7,5,59.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,5,19.4,9.9,0,95.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,6,19.7,10.5,0,63.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,7,21.2,12.6,0,138.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,8,20.3,13.1,0,170.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,9,18.8,10.1,0,197.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,10,15.2,6.1,3,113.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,11,11.5,5.8,1,93.3,,Campbell Stokes recorder,N,N,N,N,N,N
-2008,12,7.0,0.6,18,64.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,1,6.6,0.4,17,153.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,2,7.7,1.9,12,43.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,3,11.0,2.6,4,51.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,4,13.9,5.9,1,53.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,5,17.1,8.5,0,68.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,6,21.0,11.5,0,114.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,7,20.2,13.1,0,194.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,8,20.7,13.0,0,76.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,9,19.1,10.6,0,34.7,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,10,16.3,8.6,0,73.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,11,12.6,6.5,0,220.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2009,12,7.2,0.4,15,114.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,1,5.7,-1.1,15,73.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,2,7.3,0.8,7,72.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,3,10.8,2.8,10,72.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,4,15.1,5.0,0,28.7,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,5,17.1,7.5,1,28.5,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,6,21.9,11.1,0,21.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,7,22.0,13.7,0,88.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,8,20.6,12.0,0,144.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,9,18.6,10.2,0,94.8,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2010,10,14.8,7.4,2,82.8,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
-2010,11,9.4,2.7,8,101.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2010,12,3.9,-3.4,24,39.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,1,7.3,1.6,11,122.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,2,10.2,4.7,3,80.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,3,12.0,3.8,5,22.6,,Campbell Stokes recorder,N,N,N,Y,N,N
-2011,4,18.2,8.0,0,5.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,5,16.8,9.0,0,56.7,,Campbell Stokes recorder,N,N,N,Y,N,N
-2011,6,18.7,10.3,0,88.9,,Campbell Stokes recorder,N,N,N,Y,N,N
-2011,7,20.7,11.8,0,80.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,8,19.9,12.0,0,64.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,9,19.4,12.1,0,97.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,10,16.9,9.9,0,81.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,11,13.4,7.7,0,84.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2011,12,10.2,3.7,5,145.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,1,9.6,3.8,7,140.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,2,8.5,1.7,11,35.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,3,13.9,4.6,2,27.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,4,12.5,4.4,1,160.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,5,17.4,8.5,0,66.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,6,17.9,11.6,0,180.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,7,20.1,11.9,0,123.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,8,20.9,13.8,0,117.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,9,17.9,9.2,0,94.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,10,13.9,7.0,1,158.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,11,10.9,4.0,4,162.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2012,12,9.4,2.5,12,229.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,1,7.3,2.4,10,145.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,2,7.0,1.3,6,56.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,3,7.1,1.1,13,107.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,4,12.1,4.1,3,46.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,5,16.0,6.8,0,89.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,6,19.1,10.9,0,39.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,7,25.0,14.5,0,25.9,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,8,22.0,12.9,0,74.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,9,18.7,10.9,0,68.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,10,16.7,10.2,0,230.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,11,10.8,3.1,6,93.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2013,12,10.6,3.3,4,159.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,1,9.6,3.2,5,234.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,2,10.1,4.1,1,161.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,3,12.3,3.8,3,61.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,4,15.1,6.9,0,100.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,5,17.1,9.1,0,135.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,6,21.3,12.1,0,76.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,7,23.6,13.7,0,39.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,8,19.9,11.4,0,185.1,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,9,20.7,11.5,0,14.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,10,16.4,10.1,0,122.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,11,12.4,6.3,2,155.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2014,12,9.6,2.1,11,109.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,1,9.0,2.2,8,158.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,2,8.3,1.3,9,124.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,3,11.0,3.5,3,55.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,4,16.1,6.0,0,9.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,5,15.9,7.9,0,155.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,6,19.6,10.8,0,50.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,7,20.2,12.4,0,107.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,8,20.3,12.3,0,129.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,9,18.3,9.1,0,57.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,10,15.6,8.2,0,47.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,11,13.3,7.7,3,223.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2015,12,13.2,8.7,0,191.4,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,1,9.6,2.9,7,221.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,2,9.4,2.2,10,129.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,3,10.7,2.5,7,96.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,4,13.2,4.7,2,46.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,5,18.5,9.0,0,109.6,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,6,19.9,12.7,0,109.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,7,21.3,13.4,0,25.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,8,21.6,13.2,0,95.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,9,20.1,13.0,0,109.0,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,10,15.0,7.8,0,41.8,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,11,10.3,3.5,4,152.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2016,12,9.6,3.0,7,56.2,,Campbell Stokes recorder,N,N,N,N,N,N
-2017,1,8.3,2.0,11,76.0,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,2,9.4,4.2,4,81.0,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,3,12.6,5.7,1,114.6,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,4,15.0,4.9,2,14.2,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,5,18.5,9.9,0,76.2,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,6,20.9,12.6,0,84.8,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,7,21.4,13.1,0,116.8,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,8,20.5,12.2,0,69.4,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,9,18.3,10.2,0,102.8,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,10,16.4,10.1,0,53.3,,Campbell Stokes recorder,N,N,N,Y,N,Y
-2017,11,11.8,3.5,5,82.2,,Campbell Stokes recorder,N,N,N,N,N,Y
-2017,12,9.3,2.8,11,154.0,,Campbell Stokes recorder,N,N,N,N,N,Y
-2018,1,9.4,2.7,9,153.2,,Campbell Stokes recorder,N,N,N,N,N,Y
+1996,4,13.8,5.1,1,70.2,,,N,N,N,N,N,N
+1996,5,14.4,6.0,0,97.6,,,N,N,N,N,N,N
+1996,6,20.7,9.9,0,18.7,,,Y,N,N,N,N,N
+1996,7,22.1,12.6,0,49.1,,,N,N,N,N,N,N
+1996,8,22.0,12.4,0,136.7,,,N,N,N,N,N,N
+1996,9,18.9,10.6,0,53.5,,,N,N,N,N,N,N
+1996,10,15.5,8.9,0,152.6,,,N,N,N,N,N,N
+1996,11,10.3,3.0,12,156.2,,,N,N,N,N,N,N
+1996,12,6.8,1.4,12,52.5,,,N,N,N,N,N,N
+1997,1,5.8,-0.1,15,15.5,,,N,N,N,N,N,N
+1997,2,10.6,3.9,4,181.2,,,N,N,N,N,N,N
+1997,3,12.2,5.0,0,42.3,,,N,N,N,N,N,N
+1997,4,15.1,4.9,0,34.0,,,N,N,N,N,N,N
+1997,5,17.2,7.8,0,97.9,,,N,N,N,N,N,N
+1997,6,18.9,11.6,0,100.2,,,N,N,N,N,N,N
+1997,7,22.1,12.5,0,42.6,,,N,N,N,N,N,N
+1997,8,23.3,15.5,0,251.0,,,N,N,N,N,N,N
+1997,9,19.0,10.9,0,69.9,,,N,N,N,N,N,N
+1997,10,15.1,7.3,3,84.9,,,N,N,N,N,N,N
+1997,11,12.4,6.1,2,163.4,,,N,N,N,N,N,N
+1997,12,9.9,3.3,8,150.0,,,N,N,N,N,N,N
+1998,1,8.8,2.7,9,154.9,,,N,N,N,N,N,N
+1998,2,11.6,3.3,5,22.0,,,N,N,N,N,N,N
+1998,3,12.3,5.8,1,168.2,,,N,N,N,N,N,N
+1998,4,12.2,5.5,1,129.6,,,N,N,N,N,N,N
+1998,5,19.2,10.4,0,45.5,,,N,N,N,N,N,N
+1998,6,18.1,12.0,0,157.8,,,N,N,N,N,N,N
+1998,7,19.8,12.3,0,66.9,,,N,N,N,N,N,N
+1998,8,20.9,12.4,0,59.1,,,N,N,N,N,N,N
+1998,9,19.1,11.5,0,118.5,,,N,N,N,N,N,N
+1998,10,14.6,7.8,0,228.8,,,Y,Y,Y,Y,N,N
+1998,11,10.6,3.4,7,118.7,,,N,N,N,N,N,N
+1998,12,9.6,1.9,9,130.7,,,N,N,N,N,N,N
+1999,1,10.2,2.3,6,208.3,,,N,N,N,N,N,N
+1999,2,9.1,2.8,7,64.1,,,N,N,N,N,N,N
+1999,3,11.8,3.6,3,70.2,,,N,N,N,N,N,N
+1999,4,13.8,5.7,5,109.0,,,N,N,N,N,N,N
+1999,5,17.5,9.5,0,75.2,,,N,N,N,N,N,N
+1999,6,19.1,8.9,0,71.0,,,N,N,N,N,N,N
+1999,7,23.1,13.0,0,12.9,,,N,N,N,N,N,N
+1999,8,21.3,12.7,0,204.0,,,N,N,N,N,N,N
+1999,9,20.2,10.9,0,176.4,,,N,N,N,N,N,N
+1999,10,15.2,7.3,0,90.3,,,N,N,N,N,N,N
+1999,11,11.8,4.5,1,60.5,,,N,N,N,N,N,N
+1999,12,9.3,2.2,9,231.0,,,N,N,N,N,N,N
+2000,1,8.5,1.2,15,47.8,,,N,N,N,N,N,N
+2000,2,10.4,3.0,6,168.4,,,N,N,N,N,N,N
+2000,3,11.8,4.1,3,59.5,,,N,N,N,N,N,N
+2000,4,12.3,4.5,1,155.4,,,N,N,N,N,N,N
+2000,5,17.2,8.1,0,95.1,,,N,N,N,N,N,N
+2000,6,20.2,11.2,0,37.1,,,N,N,N,N,N,N
+2000,7,20.8,12.4,0,74.5,,,N,N,N,N,N,N
+2000,8,21.9,13.0,0,73.9,,,N,Y,Y,N,N,N
+2000,9,19.3,11.4,0,156.8,,,N,Y,Y,N,N,N
+2000,10,15.0,7.1,0,267.6,,,N,N,N,N,N,N
+2000,11,11.1,3.2,4,180.4,,,N,N,N,N,N,N
+2000,12,9.9,4.6,6,187.7,,,N,N,N,N,N,N
+2001,1,7.8,1.8,5,84.0,,,N,N,N,N,N,N
+2001,2,10.1,1.7,13,96.5,,,N,N,N,N,N,N
+2001,3,9.5,2.8,7,147.5,,,N,N,N,N,N,N
+2001,4,12.9,4.5,2,119.1,,,N,N,N,N,N,N
+2001,5,18.1,8.7,0,31.6,,,N,N,N,N,N,N
+2001,6,20.2,10.2,0,34.8,,,N,N,N,N,N,N
+2001,7,21.6,13.1,0,144.6,,,N,N,N,N,N,N
+2001,8,21.1,13.6,0,134.3,,,N,N,N,N,N,N
+2001,9,18.5,10.5,0,36.5,,,N,N,N,N,N,N
+2001,10,17.2,11.0,0,183.4,,,N,N,N,N,N,N
+2001,11,12.2,4.0,5,86.6,,,N,N,N,N,N,N
+2001,12,8.4,1.3,12,36.1,,,N,N,N,N,N,N
+2002,1,9.8,3.7,2,142.0,,,N,N,N,N,N,N
+2002,2,11.1,4.6,3,187.6,,,N,N,N,N,N,N
+2002,3,12.5,5.0,2,65.1,,,N,N,N,N,N,N
+2002,4,14.6,5.6,1,84.7,,,Y,N,N,N,N,N
+2002,5,16.5,8.5,0,129.8,,,Y,N,N,N,N,N
+2002,6,18.4,10.6,0,66.0,,,Y,N,N,N,N,N
+2002,7,20.5,12.5,0,65.9,,,Y,N,N,N,N,N
+2002,8,21.7,12.9,0,55.9,,,Y,N,N,N,N,N
+2002,9,19.6,10.7,0,30.5,,,Y,N,N,N,N,N
+2002,10,14.7,7.1,2,217.1,,,Y,N,N,N,N,N
+2002,11,12.8,7.1,0,175.6,,,Y,N,N,N,N,N
+2002,12,8.9,4.6,0,151.1,,,Y,N,N,N,N,N
+2003,1,8.6,2.3,11,90.6,,,N,N,N,N,N,N
+2003,2,8.7,1.9,8,39.9,,,N,N,N,N,N,N
+2003,3,13.6,4.5,2,47.1,,,N,N,N,N,N,N
+2003,4,16.2,6.2,1,70.3,,,N,N,N,N,N,N
+2003,5,16.7,8.4,0,93.0,,,N,N,N,N,N,N
+2003,6,21.3,11.7,0,68.4,,,N,N,N,N,N,N
+2003,7,22.0,13.8,0,93.9,,,N,N,N,N,N,N
+2003,8,24.5,14.7,0,16.2,,,N,N,N,N,N,N
+2003,9,20.5,9.5,0,23.1,,,N,N,N,N,N,N
+2003,10,14.4,5.7,7,65.4,,,N,N,N,N,N,N
+2003,11,12.5,6.0,3,105.3,,,N,N,N,N,N,N
+2003,12,9.6,3.1,5,138.1,,,N,N,N,N,N,N
+2004,1,9.4,3.0,7,162.2,,,N,N,N,N,N,N
+2004,2,9.6,2.9,9,67.3,,,N,N,N,N,N,N
+2004,3,11.4,3.8,3,85.6,,,N,N,N,N,N,N
+2004,4,14.7,6.3,1,73.8,,,N,N,N,N,N,N
+2004,5,18.3,8.8,0,40.0,,,N,N,N,N,N,N
+2004,6,21.2,12.3,0,65.9,,,N,N,N,N,N,N
+2004,7,20.7,12.6,0,82.5,,,N,N,N,N,N,N
+2004,8,22.3,13.7,0,141.7,,,N,N,N,N,N,N
+2004,9,19.5,11.6,0,107.4,,,N,N,N,N,N,N
+2004,10,15.0,8.3,0,182.5,,,N,N,N,N,N,N
+2004,11,12.0,6.0,0,65.6,,,N,N,N,N,N,N
+2004,12,9.7,3.5,9,84.5,,,N,N,N,N,N,N
+2005,1,10.4,3.9,4,75.0,,,N,N,N,N,N,N
+2005,2,8.8,2.4,5,49.5,,,N,N,N,N,N,N
+2005,3,11.6,4.8,8,65.2,,,N,N,N,N,N,N
+2005,4,14.7,6.6,2,87.6,,,N,N,N,N,N,N
+2005,5,17.2,8.3,0,51.6,,,N,N,N,N,N,N
+2005,6,20.6,12.2,0,76.6,,,N,N,N,N,N,N
+2005,7,22.2,13.9,0,69.9,,,N,N,N,N,N,N
+2005,8,21.9,11.6,0,55.6,,,Y,N,N,N,N,N
+2005,9,20.4,11.6,0,82.8,,,Y,N,N,N,N,N
+2005,10,16.6,11.4,0,160.0,,,Y,N,N,N,N,N
+2005,11,10.9,3.0,11,106.1,,,N,N,N,N,N,N
+2005,12,9.3,2.4,5,114.7,,,N,N,N,N,N,N
+2006,1,8.0,2.9,4,36.0,,,N,N,N,N,N,N
+2006,2,7.7,2.3,6,59.0,,,N,N,N,N,N,N
+2006,3,9.5,3.5,5,121.8,,,N,N,N,N,N,N
+2006,4,14.1,6.2,3,35.1,,,N,N,N,N,N,N
+2006,5,17.0,8.9,0,159.2,,,N,N,N,N,N,N
+2006,6,21.9,11.8,0,47.4,,,N,N,N,N,N,N
+2006,7,25.5,14.5,0,65.6,,,N,N,N,N,N,N
+2006,8,21.1,13.2,0,58.9,,,N,N,N,N,N,N
+2006,9,21.3,12.7,0,43.4,,,N,N,N,N,N,N
+2006,10,16.8,8.8,0,178.1,,,N,N,N,N,N,N
+2006,11,12.5,3.6,5,178.1,,,N,N,N,N,N,N
+2006,12,10.1,3.9,5,147.1,,,N,N,N,N,N,N
+2007,1,10.5,4.2,2,178.9,,,N,N,N,N,N,N
+2007,2,10.0,3.7,7,152.3,,,N,N,N,N,N,N
+2007,3,12.6,4.3,1,89.5,,,N,N,N,N,N,N
+2007,4,18.4,7.0,0,21.8,,,Y,Y,Y,Y,N,N
+2007,5,17.4,8.7,0,128.5,,,Y,Y,Y,Y,N,N
+2007,6,20.1,12.1,0,104.7,,,Y,Y,Y,Y,N,N
+2007,7,19.3,12.6,0,173.8,,,Y,Y,Y,Y,N,N
+2007,8,21.1,11.7,0,71.3,,,Y,Y,Y,Y,N,N
+2007,9,18.5,10.2,0,53.1,,,N,N,N,N,N,N
+2007,10,14.9,6.7,0,57.0,,,N,N,N,N,N,N
+2007,11,12.0,4.9,3,88.4,,,Y,Y,Y,N,N,N
+2007,12,9.0,2.9,9,171.5,,,Y,Y,Y,N,N,N
+2008,1,10.6,4.4,1,170.6,,,Y,Y,Y,N,N,N
+2008,2,10.2,2.4,7,44.5,,,Y,Y,Y,N,N,N
+2008,3,10.8,3.9,2,98.7,,,Y,Y,Y,N,N,N
+2008,4,13.9,4.7,5,59.9,,,N,N,N,N,N,N
+2008,5,19.4,9.9,0,95.3,,,N,N,N,N,N,N
+2008,6,19.7,10.5,0,63.8,,,N,N,N,N,N,N
+2008,7,21.2,12.6,0,138.4,,,N,N,N,N,N,N
+2008,8,20.3,13.1,0,170.2,,,N,N,N,N,N,N
+2008,9,18.8,10.1,0,197.8,,,N,N,N,N,N,N
+2008,10,15.2,6.1,3,113.0,,,N,N,N,N,N,N
+2008,11,11.5,5.8,1,93.3,,,N,N,N,N,N,N
+2008,12,7.0,0.6,18,64.6,,,N,N,N,N,N,N
+2009,1,6.6,0.4,17,153.5,,,N,N,N,N,N,N
+2009,2,7.7,1.9,12,43.6,,,N,N,N,N,N,N
+2009,3,11.0,2.6,4,51.8,,,N,N,N,N,N,N
+2009,4,13.9,5.9,1,53.5,,,N,N,N,N,N,N
+2009,5,17.1,8.5,0,68.0,,,N,N,N,N,N,N
+2009,6,21.0,11.5,0,114.8,,,N,N,N,N,N,N
+2009,7,20.2,13.1,0,194.1,,,N,N,N,N,N,N
+2009,8,20.7,13.0,0,76.0,,,N,N,N,N,N,N
+2009,9,19.1,10.6,0,34.7,,,N,N,N,N,N,N
+2009,10,16.3,8.6,0,73.6,,,N,N,N,N,N,N
+2009,11,12.6,6.5,0,220.4,,,N,N,N,N,N,N
+2009,12,7.2,0.4,15,114.9,,,N,N,N,N,N,N
+2010,1,5.7,-1.1,15,73.5,,,N,N,N,N,N,N
+2010,2,7.3,0.8,7,72.1,,,N,N,N,N,N,N
+2010,3,10.8,2.8,10,72.6,,,N,N,N,N,N,N
+2010,4,15.1,5.0,0,28.7,,,N,N,N,N,N,N
+2010,5,17.1,7.5,1,28.5,,,N,N,N,N,N,N
+2010,6,21.9,11.1,0,21.9,,,N,N,N,N,N,N
+2010,7,22.0,13.7,0,88.0,,,N,N,N,N,N,N
+2010,8,20.6,12.0,0,144.6,,,N,N,N,N,N,N
+2010,9,18.6,10.2,0,94.8,,,Y,Y,Y,Y,N,N
+2010,10,14.8,7.4,2,82.8,,,Y,Y,Y,Y,N,N
+2010,11,9.4,2.7,8,101.0,,,N,N,N,N,N,N
+2010,12,3.9,-3.4,24,39.8,,,N,N,N,N,N,N
+2011,1,7.3,1.6,11,122.2,,,N,N,N,N,N,N
+2011,2,10.2,4.7,3,80.4,,,N,N,N,N,N,N
+2011,3,12.0,3.8,5,22.6,,,N,N,N,Y,N,N
+2011,4,18.2,8.0,0,5.1,,,N,N,N,N,N,N
+2011,5,16.8,9.0,0,56.7,,,N,N,N,Y,N,N
+2011,6,18.7,10.3,0,88.9,,,N,N,N,Y,N,N
+2011,7,20.7,11.8,0,80.6,,,N,N,N,N,N,N
+2011,8,19.9,12.0,0,64.4,,,N,N,N,N,N,N
+2011,9,19.4,12.1,0,97.8,,,N,N,N,N,N,N
+2011,10,16.9,9.9,0,81.6,,,N,N,N,N,N,N
+2011,11,13.4,7.7,0,84.0,,,N,N,N,N,N,N
+2011,12,10.2,3.7,5,145.2,,,N,N,N,N,N,N
+2012,1,9.6,3.8,7,140.4,,,N,N,N,N,N,N
+2012,2,8.5,1.7,11,35.8,,,N,N,N,N,N,N
+2012,3,13.9,4.6,2,27.2,,,N,N,N,N,N,N
+2012,4,12.5,4.4,1,160.0,,,N,N,N,N,N,N
+2012,5,17.4,8.5,0,66.8,,,N,N,N,N,N,N
+2012,6,17.9,11.6,0,180.8,,,N,N,N,N,N,N
+2012,7,20.1,11.9,0,123.2,,,N,N,N,N,N,N
+2012,8,20.9,13.8,0,117.4,,,N,N,N,N,N,N
+2012,9,17.9,9.2,0,94.6,,,N,N,N,N,N,N
+2012,10,13.9,7.0,1,158.2,,,N,N,N,N,N,N
+2012,11,10.9,4.0,4,162.6,,,N,N,N,N,N,N
+2012,12,9.4,2.5,12,229.4,,,N,N,N,N,N,N
+2013,1,7.3,2.4,10,145.0,,,N,N,N,N,N,N
+2013,2,7.0,1.3,6,56.6,,,N,N,N,N,N,N
+2013,3,7.1,1.1,13,107.0,,,N,N,N,N,N,N
+2013,4,12.1,4.1,3,46.2,,,N,N,N,N,N,N
+2013,5,16.0,6.8,0,89.2,,,N,N,N,N,N,N
+2013,6,19.1,10.9,0,39.2,,,N,N,N,N,N,N
+2013,7,25.0,14.5,0,25.9,,,N,N,N,N,N,N
+2013,8,22.0,12.9,0,74.2,,,N,N,N,N,N,N
+2013,9,18.7,10.9,0,68.2,,,N,N,N,N,N,N
+2013,10,16.7,10.2,0,230.6,,,N,N,N,N,N,N
+2013,11,10.8,3.1,6,93.8,,,N,N,N,N,N,N
+2013,12,10.6,3.3,4,159.6,,,N,N,N,N,N,N
+2014,1,9.6,3.2,5,234.6,,,N,N,N,N,N,N
+2014,2,10.1,4.1,1,161.4,,,N,N,N,N,N,N
+2014,3,12.3,3.8,3,61.6,,,N,N,N,N,N,N
+2014,4,15.1,6.9,0,100.0,,,N,N,N,N,N,N
+2014,5,17.1,9.1,0,135.6,,,N,N,N,N,N,N
+2014,6,21.3,12.1,0,76.8,,,N,N,N,N,N,N
+2014,7,23.6,13.7,0,39.8,,,N,N,N,N,N,N
+2014,8,19.9,11.4,0,185.1,,,N,N,N,N,N,N
+2014,9,20.7,11.5,0,14.2,,,N,N,N,N,N,N
+2014,10,16.4,10.1,0,122.6,,,N,N,N,N,N,N
+2014,11,12.4,6.3,2,155.8,,,N,N,N,N,N,N
+2014,12,9.6,2.1,11,109.8,,,N,N,N,N,N,N
+2015,1,9.0,2.2,8,158.2,,,N,N,N,N,N,N
+2015,2,8.3,1.3,9,124.2,,,N,N,N,N,N,N
+2015,3,11.0,3.5,3,55.8,,,N,N,N,N,N,N
+2015,4,16.1,6.0,0,9.8,,,N,N,N,N,N,N
+2015,5,15.9,7.9,0,155.6,,,N,N,N,N,N,N
+2015,6,19.6,10.8,0,50.4,,,N,N,N,N,N,N
+2015,7,20.2,12.4,0,107.6,,,N,N,N,N,N,N
+2015,8,20.3,12.3,0,129.0,,,N,N,N,N,N,N
+2015,9,18.3,9.1,0,57.0,,,N,N,N,N,N,N
+2015,10,15.6,8.2,0,47.4,,,N,N,N,N,N,N
+2015,11,13.3,7.7,3,223.8,,,N,N,N,N,N,N
+2015,12,13.2,8.7,0,191.4,,,N,N,N,N,N,N
+2016,1,9.6,2.9,7,221.0,,,N,N,N,N,N,N
+2016,2,9.4,2.2,10,129.2,,,N,N,N,N,N,N
+2016,3,10.7,2.5,7,96.0,,,N,N,N,N,N,N
+2016,4,13.2,4.7,2,46.6,,,N,N,N,N,N,N
+2016,5,18.5,9.0,0,109.6,,,N,N,N,N,N,N
+2016,6,19.9,12.7,0,109.8,,,N,N,N,N,N,N
+2016,7,21.3,13.4,0,25.2,,,N,N,N,N,N,N
+2016,8,21.6,13.2,0,95.2,,,N,N,N,N,N,N
+2016,9,20.1,13.0,0,109.0,,,N,N,N,N,N,N
+2016,10,15.0,7.8,0,41.8,,,N,N,N,N,N,N
+2016,11,10.3,3.5,4,152.2,,,N,N,N,N,N,N
+2016,12,9.6,3.0,7,56.2,,,N,N,N,N,N,N
+2017,1,8.3,2.0,11,76.0,,,N,N,N,N,N,Y
+2017,2,9.4,4.2,4,81.0,,,N,N,N,N,N,Y
+2017,3,12.6,5.7,1,114.6,,,N,N,N,N,N,Y
+2017,4,15.0,4.9,2,14.2,,,N,N,N,N,N,Y
+2017,5,18.5,9.9,0,76.2,,,N,N,N,N,N,Y
+2017,6,20.9,12.6,0,84.8,,,N,N,N,N,N,Y
+2017,7,21.4,13.1,0,116.8,,,N,N,N,N,N,Y
+2017,8,20.5,12.2,0,69.4,,,N,N,N,N,N,Y
+2017,9,18.3,10.2,0,102.8,,,N,N,N,N,N,Y
+2017,10,16.4,10.1,0,53.3,,,N,N,N,Y,N,Y
+2017,11,11.8,3.5,5,82.2,,,N,N,N,N,N,Y
+2017,12,9.3,2.8,11,154.0,,,N,N,N,N,N,Y
+2018,1,9.4,2.7,9,153.2,,,N,N,N,N,N,Y

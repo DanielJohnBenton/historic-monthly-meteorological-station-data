@@ -6,7 +6,7 @@ NUMBERS_ONLY = "0123456789-."
 def resolve_number(text, isSunHours=False):
 	if text == "---":
 		if isSunHours:
-			return "", "N", "Campbell Stokes recorder"
+			return "", "N", ""
 		else:
 			return "", "N"
 	
@@ -20,7 +20,8 @@ def resolve_number(text, isSunHours=False):
 	
 	if "*" in text:
 		estimated = "Y"
-	if "#" in text:
+		measurementVia = ""
+	elif "#" in text:
 		measurementVia = "automatic Kipp & Zonen sensor"
 	
 	if isSunHours:

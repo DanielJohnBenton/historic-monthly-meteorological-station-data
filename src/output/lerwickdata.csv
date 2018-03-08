@@ -503,7 +503,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1972,9,11.7,7.1,0,42.9,83.8,Campbell Stokes recorder,N,N,N,N,N,N
 1972,10,10.8,6.9,0,83.6,58.9,Campbell Stokes recorder,N,N,N,N,N,N
 1972,11,7.3,3.0,5,230.9,40.5,Campbell Stokes recorder,N,N,N,N,N,N
-1972,12,7.5,4.1,0,114.6,11.2,Campbell Stokes recorder,N,N,N,N,Y,N
+1972,12,7.5,4.1,0,114.6,11.2,,N,N,N,N,Y,N
 1973,1,7.1,4.0,0,96.0,16.6,Campbell Stokes recorder,N,N,N,N,N,N
 1973,2,5.4,0.5,13,150.0,60.9,Campbell Stokes recorder,N,N,N,N,N,N
 1973,3,7.9,3.6,1,86.1,77.7,Campbell Stokes recorder,N,N,N,N,N,N
@@ -612,9 +612,9 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1981,10,8.0,3.7,1,247.8,59.8,Campbell Stokes recorder,N,N,N,N,N,N
 1981,11,6.9,2.6,2,235.5,22.9,Campbell Stokes recorder,N,N,N,N,N,N
 1981,12,3.1,-1.5,22,116.1,11.5,Campbell Stokes recorder,N,N,N,N,N,N
-1982,1,4.7,0.8,12,86.6,22.3,Campbell Stokes recorder,N,N,N,N,Y,N
-1982,2,6.3,2.6,1,46.9,51.2,Campbell Stokes recorder,N,N,N,N,Y,N
-1982,3,6.7,2.7,1,134.5,108.5,Campbell Stokes recorder,N,N,N,N,Y,N
+1982,1,4.7,0.8,12,86.6,22.3,,N,N,N,N,Y,N
+1982,2,6.3,2.6,1,46.9,51.2,,N,N,N,N,Y,N
+1982,3,6.7,2.7,1,134.5,108.5,,N,N,N,N,Y,N
 1982,4,8.3,3.5,6,37.3,110.4,Campbell Stokes recorder,N,N,N,N,N,N
 1982,5,11.0,4.8,2,82.1,221.4,Campbell Stokes recorder,N,N,N,N,N,N
 1982,6,12.5,7.4,0,9.5,150.3,Campbell Stokes recorder,N,N,N,N,N,N
@@ -948,7 +948,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2009,10,10.3,6.4,0,163.8,57.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2009,11,8.7,5.8,1,216.4,32.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2009,12,5.6,1.9,12,101.7,28.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2010,1,4.3,0.5,13,113.7,38.5,Campbell Stokes recorder,N,N,N,N,Y,N
+2010,1,4.3,0.5,13,113.7,38.5,,N,N,N,N,Y,N
 2010,2,3.6,-0.7,17,143.1,80.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2010,3,6.8,2.7,4,86.5,102.7,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2010,4,8.3,3.7,2,72.0,110.5,automatic Kipp & Zonen sensor,N,N,N,N,N,N

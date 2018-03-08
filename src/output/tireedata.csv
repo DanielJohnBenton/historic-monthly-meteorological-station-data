@@ -882,7 +882,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2001,5,14.0,7.6,0,22.6,220.7,Campbell Stokes recorder,N,N,N,N,N,N
 2001,6,13.7,8.8,0,61.8,161.8,Campbell Stokes recorder,N,N,N,N,N,N
 2001,7,15.5,10.8,0,63.0,159.5,Campbell Stokes recorder,N,N,N,N,N,N
-2001,8,16.6,11.3,0,95.6,168.3,Campbell Stokes recorder,N,N,N,N,Y,N
+2001,8,16.6,11.3,0,95.6,168.3,,N,N,N,N,Y,N
 2001,9,14.9,10.0,0,88.2,149.6,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2001,10,14.1,10.4,0,183.8,71.5,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2001,11,11.0,6.4,0,145.2,19.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
@@ -895,7 +895,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2002,6,14.5,10.3,0,135.8,156.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,7,15.3,10.8,0,100.2,158.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,8,16.8,11.7,0,36.0,133.8,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2002,9,16.0,10.6,0,80.0,,Campbell Stokes recorder,N,N,N,N,N,N
+2002,9,16.0,10.6,0,80.0,,,N,N,N,N,N,N
 2002,10,11.6,7.1,0,118.8,67.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,11,10.8,7.2,1,136.8,40.6,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,12,8.2,4.5,1,52.0,32.1,automatic Kipp & Zonen sensor,N,N,N,N,N,N
@@ -912,7 +912,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2003,11,10.9,6.7,0,183.6,54.1,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2003,12,8.8,4.3,2,123.6,25.4,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,1,8.5,4.3,1,140.6,34.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2004,2,8.1,3.1,4,54.0,,Campbell Stokes recorder,N,N,N,N,N,N
+2004,2,8.1,3.1,4,54.0,,,N,N,N,N,N,N
 2004,3,9.4,4.6,0,86.2,150.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,4,11.0,6.6,0,79.6,161.0,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,5,13.1,7.7,0,34.6,227.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
@@ -947,7 +947,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2006,10,14.1,10.1,0,184.6,78.4,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2006,11,10.7,6.3,0,136.4,32.8,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2006,12,9.5,5.7,0,178.0,20.4,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2007,1,9.4,4.8,1,144.3,,Campbell Stokes recorder,Y,Y,Y,Y,N,N
+2007,1,9.4,4.8,1,144.3,,,Y,Y,Y,Y,N,N
 2007,2,8.4,4.6,2,106.0,68.0,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2007,3,9.3,4.3,1,76.6,149.7,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2007,4,12.3,6.8,0,46.8,178.6,automatic Kipp & Zonen sensor,N,N,N,N,N,N

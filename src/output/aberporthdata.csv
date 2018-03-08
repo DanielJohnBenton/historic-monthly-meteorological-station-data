@@ -1,16 +1,16 @@
 yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,tmax_degc_estimated,tmin_degc_estimated,af_days_estimated,rain_mm_estimated,sun_hours_estimated,provisional
-1941,1,,,,74.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,2,,,,69.1,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,3,,,,76.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,4,,,,33.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,5,,,,51.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,6,,,,25.7,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,7,,,,53.9,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,8,,,,91.8,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,9,,,,25.5,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,10,,,,106.2,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,11,,,,92.3,,Campbell Stokes recorder,N,N,N,N,N,N
-1941,12,,,,86.5,,Campbell Stokes recorder,N,N,N,N,N,N
+1941,1,,,,74.7,,,N,N,N,N,N,N
+1941,2,,,,69.1,,,N,N,N,N,N,N
+1941,3,,,,76.2,,,N,N,N,N,N,N
+1941,4,,,,33.7,,,N,N,N,N,N,N
+1941,5,,,,51.3,,,N,N,N,N,N,N
+1941,6,,,,25.7,,,N,N,N,N,N,N
+1941,7,,,,53.9,,,N,N,N,N,N,N
+1941,8,,,,91.8,,,N,N,N,N,N,N
+1941,9,,,,25.5,,,N,N,N,N,N,N
+1941,10,,,,106.2,,,N,N,N,N,N,N
+1941,11,,,,92.3,,,N,N,N,N,N,N
+1941,12,,,,86.5,,,N,N,N,N,N,N
 1942,1,5.8,2.1,,114.0,58.0,Campbell Stokes recorder,N,N,N,N,N,N
 1942,2,4.2,-0.6,,13.8,80.3,Campbell Stokes recorder,N,N,N,N,N,N
 1942,3,9.7,3.7,,58.0,117.9,Campbell Stokes recorder,N,N,N,N,N,N
@@ -722,11 +722,11 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2001,1,6.8,2.2,5,56.4,86.8,Campbell Stokes recorder,N,N,N,N,N,N
 2001,2,7.6,2.7,5,91.0,95.7,Campbell Stokes recorder,N,N,N,N,N,N
 2001,3,8.3,2.9,6,77.0,105.9,Campbell Stokes recorder,N,N,N,N,N,N
-2001,4,9.9,4.8,0,76.0,152.5,Campbell Stokes recorder,N,N,N,N,Y,N
-2001,5,15.4,8.6,0,44.4,236.8,Campbell Stokes recorder,N,N,N,N,Y,N
-2001,6,16.6,10.2,0,28.0,194.1,Campbell Stokes recorder,N,N,N,N,Y,N
-2001,7,17.4,11.9,0,98.6,181.0,Campbell Stokes recorder,N,N,N,N,Y,N
-2001,8,17.9,12.6,0,97.6,166.7,Campbell Stokes recorder,N,N,N,N,Y,N
+2001,4,9.9,4.8,0,76.0,152.5,,N,N,N,N,Y,N
+2001,5,15.4,8.6,0,44.4,236.8,,N,N,N,N,Y,N
+2001,6,16.6,10.2,0,28.0,194.1,,N,N,N,N,Y,N
+2001,7,17.4,11.9,0,98.6,181.0,,N,N,N,N,Y,N
+2001,8,17.9,12.6,0,97.6,166.7,,N,N,N,N,Y,N
 2001,9,15.6,11.5,0,54.2,127.8,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2001,10,15.1,10.5,0,147.4,110.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2001,11,11.1,6.7,0,87.8,38.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
@@ -736,7 +736,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2002,3,10.6,5.1,0,48.8,124.1,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,4,11.6,5.6,0,56.8,175.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,5,13.9,8.1,0,120.6,205.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2002,6,15.5,10.1,0,50.2,,Campbell Stokes recorder,N,N,N,N,N,N
+2002,6,15.5,10.1,0,50.2,,,N,N,N,N,N,N
 2002,7,16.9,11.7,0,46.0,145.1,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,8,17.4,12.6,0,56.6,152.0,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2002,9,17.3,10.9,0,43.0,188.7,automatic Kipp & Zonen sensor,N,N,N,N,N,N
@@ -759,7 +759,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2004,2,7.6,3.8,2,48.4,99.0,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,3,9.5,3.9,4,30.4,154.1,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,4,10.8,6.2,0,50.4,118.7,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2004,5,13.9,8.1,0,36.2,,Campbell Stokes recorder,N,N,N,N,N,N
+2004,5,13.9,8.1,0,36.2,,,N,N,N,N,N,N
 2004,6,17.6,11.5,0,25.8,210.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,7,17.0,11.7,0,46.9,165.4,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2004,8,19.1,13.6,0,160.0,144.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N

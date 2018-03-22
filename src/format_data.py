@@ -4,7 +4,7 @@ from deduplicate_whitespace import deduplicate_whitespace
 NUMBERS_ONLY = "0123456789-."
 
 def resolve_number(text, isSunHours=False):
-	if text == "---":
+	if text == "---" or text == "-":
 		if isSunHours:
 			return "", "N", ""
 		else:
@@ -40,6 +40,9 @@ for ref in refs:
 	output = "yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,tmax_degc_estimated,tmin_degc_estimated,af_days_estimated,rain_mm_estimated,sun_hours_estimated,provisional"
 	
 	for line in lines:
+		if not line[0][0].isdigit():
+			continue
+		
 		while len(line) < 8:
 			line.append("---")
 		

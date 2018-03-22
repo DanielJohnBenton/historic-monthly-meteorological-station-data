@@ -34,7 +34,7 @@ with open("formatted_data/locations_final.csv", "r", encoding="utf-8") as locati
 	
 for ref in refs:
 	with open(f"original_txt/{ref}.txt", "r", encoding="utf-8") as inFile:
-		text = deduplicate_whitespace(inFile.read())
+		text = deduplicate_whitespace(inFile.read().replace("         ", "   ---   "))
 	lines = [line.strip().split(" ") for line in text.split("hours\n")[1].splitlines()]
 	
 	output = "yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,tmax_degc_estimated,tmin_degc_estimated,af_days_estimated,rain_mm_estimated,sun_hours_estimated,provisional"

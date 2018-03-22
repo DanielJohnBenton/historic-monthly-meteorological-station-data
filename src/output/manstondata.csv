@@ -806,7 +806,7 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 2008,7,22.0,13.3,0,63.2,289.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2008,8,21.4,13.6,0,53.8,171.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2008,9,17.6,11.5,0,79.6,176.2,automatic Kipp & Zonen sensor,N,N,N,N,N,N
-2008,10,14.5,7.4,98.0,151.7,,,N,N,N,N,N,N
+2008,10,14.5,7.4,,98.0,151.7,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2008,11,10.4,5.8,1,111.0,52.3,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2008,12,6.7,1.9,7,25.4,94.4,automatic Kipp & Zonen sensor,N,N,N,N,N,N
 2009,1,5.5,0.3,13,81.0,86.9,automatic Kipp & Zonen sensor,N,N,N,N,N,N

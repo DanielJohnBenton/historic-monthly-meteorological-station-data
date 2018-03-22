@@ -32,8 +32,8 @@ yyyy,mm,tmax_degc,tmin_degc,af_days,rain_mm,sun_hours,sun_hours_measurement_via,
 1961,7,16.7,8.2,0,141.1,149.2,Campbell Stokes recorder,N,N,N,N,N,N
 1961,8,16.8,10.1,0,149.5,106.6,Campbell Stokes recorder,N,N,N,N,N,N
 1961,9,17.4,9.3,0,134.8,79.7,Campbell Stokes recorder,N,N,N,N,N,N
-1962,5,4.2,3,117.8,102.2,,,N,N,N,N,N,N
-1962,6,6.8,1,72.8,163.9,,,N,N,N,N,N,N
+1962,5,,4.2,3,117.8,102.2,,,N,N,N,N,N,N
+1962,6,,6.8,1,72.8,163.9,,,N,N,N,N,N,N
 1962,7,16.8,9.1,0,56.7,,,N,N,N,N,N,N
 1962,8,15.6,9.3,0,236.2,,,N,N,N,N,N,N
 1962,9,14.6,7.8,1,218.0,,,N,N,N,N,N,N

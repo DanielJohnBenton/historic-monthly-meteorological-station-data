@@ -6,7 +6,7 @@ outputDir = "output"
 
 fileNames = [fileName for fileName in os.listdir(originalTxtDir) if fileName.lower().endswith(".txt")]
 
-locationOutput = "name,easting,northing,grid,lat,lon,metres_amsl,changed_location,prev_easting,prev_northing,prev_lat,_prev_lon,prev_metres_amsl,last_year_location_1,last_month_location_1,first_year_location_2,first_month_location_2,ref"
+locationOutput = "name,easting,northing,grid,lat,lon,metres_amsl,changed_location,prev_easting,prev_northing,prev_lat,prev_lon,prev_metres_amsl,last_year_location_1,last_month_location_1,first_year_location_2,first_month_location_2,ref"
 
 for fileName in fileNames:
 	with open(f"{originalTxtDir}/{fileName}", "r", encoding="utf-8") as inFile:

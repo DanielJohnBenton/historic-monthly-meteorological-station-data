@@ -166,4 +166,16 @@ Notebook with code: [notes.ipynb](https://github.com/DanielJohnBenton/historic-m
 
 ---
 
+## Acknowledgements
+
+### Technology
+- [Python](https://www.python.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+- [SciPy](https://www.scipy.org/)
+
+### Data
+
+- [Met Office / data.gov.uk / MOD](https://data.gov.uk/dataset/historic-monthly-meteorological-station-data)
+
 Source data used is [public sector information licensed under the Open Government Licence v3.0.](https://data.gov.uk/dataset/historic-monthly-meteorological-station-data)

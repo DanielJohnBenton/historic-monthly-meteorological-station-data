@@ -170,6 +170,7 @@ Notebook with code: [notes.ipynb](https://github.com/DanielJohnBenton/historic-m
 
 ### Technology
 - [Python](https://www.python.org/)
+- [Jupyter](http://jupyter.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [SciPy](https://www.scipy.org/)
